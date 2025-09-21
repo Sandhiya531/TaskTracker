@@ -1,4 +1,4 @@
 1. Command to run server(backend)
- ng run server
+ npm run server
 
 2. ng serve
